@@ -35,129 +35,90 @@ When configuring Email Protection on XG Firewall, what is the danger of adding t
 
 
 Which firewall icon shown would represent a network rule that allows traffic?
-#D
+    
+    D
 
 You want to enable SafeSearch in a web protection policy on the XG Firewall, but some coworkers are worried about the additional load this may put on the XG Firewall. What can you tell them to ease their minds?
 
-# SafeSearch is processed by the search engine and not the XG Firewall
-SafeSearch is handled by the client browser so it does not use any extra resources - wrong
-SafeSearch uses less than 5% additional resources per 1000 users on the XG Firewall
+    SafeSearch is processed by the search engine and not the XG Firewall
 
 How do you enable and disable IPsec VPNs?
 
-Using the ON/OFF toggle switch
-# By clicking on the status indicators
-They are always enabled unless the connection is down
-Through the Console
+    By clicking on the status indicators
+
 
 Which of the following is a targeted attack using spoof emails to persuade users to provide sensitive information or credentials?
 
-Spoofing
-Remote Access Trojan (RAT)
-# Spear Phishing
-Bulk Email
-Spam
-Cross Site Scripting
+    Spear Phishing
+
 
 You have enabled the option to block potentially unwanted applications in Web Protection. Where would you exclude an application that you use on the network from being blocked?
 	
-PROTECT > Web > Exceptions
-# PROTECT > Web > General settings
-In the Firewall Rule
-In the Web Policy
+    PROTECT > Web > General settings
 
-Question 17: TRUE or FALSE: The XG Firewall's light implementation of Cloud Access Security Broker blocks all cloud applications by default.
+TRUE or FALSE: The XG Firewall's light implementation of Cloud Access Security Broker blocks all cloud applications by default.
 
-TRUE
-# FALSE
+    FALSE
+
 You have been asked to install STAS on your servers. Which 3 of the following are required for the installation to be successful?
 
-A SQL Server
-# Active Directory
-# An account with logon as a service rights
-An IIS Server
-# An account with access to the Windows security log
+    Active Directory
+    An account with logon as a service rights
+    An account with access to the Windows security log
 
 TRUE or FALSE: IPS policies can be applied to both User/Network rules and Business Application rules.
-# TRUE
-FALSE
+    
+    TRUE
+
 
 How do you reboot the XG Firewall?
 	
-# Using the Admin menu
-Using the physical power button
-From SYSTEM > Administration
-Using the System menu
-From CONFIGURE > System services
+    Using the Admin menu
+
 
 In Email Protection, where do you enable the SPX Reply Portal?
-	
-PROTECT > Email > General settings
-SMTP Profile
-# SPX Template
-PROTECT > Email > Encryption
+
+    SPX Template
 
 You have received a new hardware XG Firewall and are preparing to connect to it for the first time. What is the default IP address and port that is used to access the device?
 	
-HTTPS://192.168.0.1:18080
-HTTPS://172.16.16.16:443
-#HTTPS://172.16.16.16:4444
-HTTPS://192.168.0.1:443
-HTTPS://172.16.16.254:18080
-HTTPS://192.168.0.254:443
-HTTPS://192.168.0.1:4444
+    HTTPS://172.16.16.16:4444
 
 What 2 of the following are methods that can be used to allow access to a wireless hotspot on the XG Firewall?
 
-IP Address
-Token
-#Password of the Day
-Encryption Key
-#Voucher
+    Password of the Day
+    Voucher
 
 When you click links to firewall rules and policies in the log viewer, where does it open?
 
-In a new tab
-In the current tab
-# In the WebAdmin window
+    In the WebAdmin window
 
 Which 2 of the following deployment methods require you to purchase a separate Sophos XG Firewall base license?
-# Software
-Hardware
-# Virtual
+    
+    Software
+    Virtual
 
 You are configuring Clientless VPN Portal access for users of a specific application. The application supports HTTPS, SSH, DCOM, and RPC connections. Which 2 of these would be available to use in the clientless VPN portal?
 	
-# HTTPS
-RPC
-# SSH
-DCOM
+    HTTPS
+    SSH
+
 
 Which 4 of the following reports would be useful for detecting data leakage?
 
-Security Heartbeat
-User Browsing Activity
-# Email Protection
+    Email Protection
 
 You are preparing a hardware XG Firewall for installation on a remote site. The order for the license has not yet been processed. Which device registration option do you select in the Initial Setup wizard?
 
-# I don't have a serial number (Start a Trial) - wrong
-# I have an existing serial number - wrong
-# I do not want to register now
-# I would like to migrate my UTM 9 license now - wrong
+    I do not want to register now
 
 You have deployed an XG Firewall as a wireless controller only. No other features are being enabled. Because of this, the XG Firewall is not the edge device in the network. What can be done so that the wireless access points can still register with the XG Firewall?
 	
-# Create a static DNS entry with the IP address of the XG Firewall  - wrong
-# Have the AP's get their configuration from the cloud provisioning service - wrong
-# Set a DHCP option code with the IP address of the XG Firewall 
-Create a configuration file and load it to the AP's from a USB drive
+    Create a configuration file and load it to the AP's from a USB drive
 
 Where would you view information on files being processed by Sandstorm for Web Protection?
 
-PROTECT > Web > Sandstorm
-MONITOR & ANALYZE > Reports > Sandstorm activity
-# PROTECT > Advanced threat > Sandstorm activity
+    PROTECT > Advanced threat > Sandstorm activity
 
 Your network has no existing VLANs and everything is connected using basic layer 2 switches. You are configuring a secure wireless guest network that needs to have its traffic isolated. What security mode would allow this to be done without any additional changes to the network configuration?
 
