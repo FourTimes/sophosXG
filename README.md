@@ -1,20 +1,15 @@
 
 Which 2 operating systems is the Sophos Connect IPsec client available for?
-  # Windows
-  #Mac
+	Windows,Mac
 
 When using STAS, where in the network can the agent software installed and configured?
-#On a Microsoft Active Directory server in the network
+	On a Microsoft Active Directory server in the network
 
 You have enabled the option to block potentially unwanted applications in Web Protection. Where would you exclude an application that you use on the network from being blocked?
-  # PROTECT > Web > General settings
+	PROTECT > Web > General settings
 
 You are configuring a new XG Firewall and have already forgotten your admin password. You have not created any other administrator users yet. How can the admin password be reset to the default?
-	
-Contact Sophos support who can use a remote connection to reset the password
-Login to the My Sophos portal and reset the password from there
-# Reboot and use SFLoader and select Troubleshooting
-Connect to the console using a serial cable and run the command reset-admin-password
+	Reboot and use SFLoader and select Troubleshooting
 
 
 In Wireless Protection, which 2 of the following are ways that MAC filtering can be configured?
