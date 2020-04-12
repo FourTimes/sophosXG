@@ -1,43 +1,37 @@
 
 Which 2 operating systems is the Sophos Connect IPsec client available for?
+	
 	Windows,Mac
 
 When using STAS, where in the network can the agent software installed and configured?
+	
 	On a Microsoft Active Directory server in the network
 
 You have enabled the option to block potentially unwanted applications in Web Protection. Where would you exclude an application that you use on the network from being blocked?
+	
 	PROTECT > Web > General settings
 
 You are configuring a new XG Firewall and have already forgotten your admin password. You have not created any other administrator users yet. How can the admin password be reset to the default?
+	
 	Reboot and use SFLoader and select Troubleshooting
 
 
 In Wireless Protection, which 2 of the following are ways that MAC filtering can be configured?
 
-Integrate with a third-party MAC filtering solution
-Restrict access to MAC addresses classified as malicious by CYREN
-# Restrict access to a specific list of allowed MAC addresses
-# Block access to a specific list of MAC addresses
+	Restrict access to a specific list of allowed MAC addresses
+	Block access to a specific list of MAC addresses
 
 Which directory service is supported by STAS when used with a Sophos XG Firewall?
 
-Lotus Domino
-Apple Open Directory
-Apache Directory Server
-Open LDAP directory server
-# Microsoft Active Directory
+	Microsoft Active Directory
 
 Which of the following best describes greylisting?
-
-The XG Firewall uses DNS to check the reputation of the sending server using real-time lists
-Emails received from servers that do not have an SPF record are referred to Sophos for additional checks
-The IP and hostname of the sending server are checked to ensure they resolve to each other
-# The first attempt to deliver a message is temporarily denied
+	
+	The first attempt to deliver a message is temporarily denied
 
 When configuring Email Protection on XG Firewall, what is the danger of adding the 'ANY' Host/Network object to the 'Allow Relay from Hosts/Networks' field for host-based relays?
 
-# Anyone internally or externally could use the firewall to send email
-Users will be able to bypass email filtering on their local clients
+	Anyone internally or externally could use the firewall to send email
 
 
 Which firewall icon shown would represent a network rule that allows traffic?
