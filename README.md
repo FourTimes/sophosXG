@@ -508,223 +508,226 @@ What type of user can be created to allow temporary access to resources with the
   What type of encryption does XG Firewall make use of for one way message encryption?
   #spx
 
-  TRUE or FALSE: The firewall rule ID is the same as the rule position.
-  #false
+TRUE or FALSE: The firewall rule ID is the same as the rule position.
+  	false
 
-  You have created a report that displays data that you wish to check on a daily basis. How can you make this data easily available in the WebAdmin interface?
-  # Create a bookmark for the report
+You have created a report that displays data that you wish to check on a daily basis. How can you make this data easily available in the WebAdmin interface?
+ 	
+	Create a bookmark for the report
 
-  Which 3 of the following can be configured as objects in XG Firewall?
+Which 3 of the following can be configured as objects in XG Firewall?
 
-# Services
-# Hosts
-# Networks
+	Services
+	Hosts
+	Networks
 
 
 When creating a NAT rule which option allows you to select different source NATs based on the outbound interface within a single rule?
 
-# Override source translation (SNAT)
+	Override source translation (SNAT)
 
 Which feature can harden forms, sign cookies and scan for malware?
-# Advanced Threat Protection (ATP) - wrong
+	
+	Advanced Threat Protection (ATP) - wrong
 
 
 What is the maximum number of external syslog servers you can configure on XG Firewall?
-#5
+	
+	5
 
 You want to encrypt emails that contain financial data using SPX before they leave the network. Which 2 steps do you need to take?
 
-Install the Sophos SPX client
-# Configure the Data Protection section in the SMTP policy to Accept with SPX - 1st wrong
-# Enable the SPX reply portal 1st wrong
+	Install the Sophos SPX client
 
 
 Which of the following is an attack using a spoof email to persuade users to provide sensitive information or credentials?
-#phising
+	
+	phising
 
 Which interface type is a virtual LAN interface created on an existing XG interface?
-# vlan
+	
+	vlan
 
 
 Which web filtering method can offload traffic to the FastPath?
 #DPI
 
-You are in the process of deploying multiple RED devices. Due to bandwidth issues at the head office, which 2 modes of deployment could be used so that only necessary traffic is routed back to the head office?
-
-# Standard/Unified - wrong
-
-
 Which 3 of the following features are provided by application control?
-# Protection against risky applications
-# Guarantee bandwidth for business applications
-# Block or limit unproductive applications
-
+	
+	Protection against risky applications
+	Guarantee bandwidth for business applications
+	Block or limit unproductive applications
 
 You are checking the application risk meter which is reporting a risk score of 4.2. Which of the following statements are true in this circumstance?
 
-There are some users showing risky behavior at a low level
-# There are users performing risky actions on the network
-There is no risky user behavior on the network
-
+	There are users performing risky actions on the network
 
 Which metric can be used to identify risky users who are responding to speak phishing attempts?
-#User Threat Quotient (UTQ)
+	
+	User Threat Quotient (UTQ)
 
 TRUE or FALSE: You can configure a wireless hotspot on any interface.
-#false
+	
+	false
 
 In which 3 ways can you add a certificate that can be used in place of the default ApplianceCertificate?
 Register with a dynamic CA service
-# Create a certificate signing request that will be signed by a trusted CA
-Upload a Sophos signed certificate
-# Create a self-signed certificate
-Download your certificate from your MySophos account
-# Upload a certificate signed by a trusted CA
+	
+	Create a certificate signing request that will be signed by a trusted CA
+	Create a self-signed certificate
+	Upload a certificate signed by a trusted CA
 
 Type the name of the only zone that cannot have a physical port or interface assigned to it.
-#vpn
+	
+	vpn
 
 Which feature of the XG Firewall identifies unknown applications?
-#Synchronized App Control
+
+	Synchronized App Control
+
 TRUE or FALSE: All site-to-site or remote access VPN connections are automatically added to the VPN zone.
-#true
+	
+	true
 
-
-Question 34
 You have a RED device deployed at a remote network in a standard/split configuration. When you connect a Sophos access point to the remote network it never appears in the pending access point list on the XG Firewall. What configuration change needs to be made for the RED connection?
-Add 1.2.3.4 to the remote network list
+
+	Add 1.2.3.4 to the remote network list
 	
-	
-
-
-
-
-
-
-
-
-
-
 TRUE or FALSE: IPS policies can be applied to both firewall and web server protection rules
-#true
+	
+	true
 
 Which is the most common deployment scenario for XG Firewall?
 	
-Bridge Mode
-# Gateway Mode
-Web Application Firewall (WAF)
-Discover Mode
+	Gateway Mode
 
 TRUE or FALSE: Keyword libraries can be uploaded to XG Firewall and applied to any web filtering policy as an added criteria with actions to log and monitor, or block search results or websites containing the keywords of interest.
-#true
+	
+	true
 
 
 TRUE or FALSE: Application rules are applied to users and groups.
-#false
+	
+	false
 
 What type of user can be created to allow temporary access to resources with the least amount of effort?
 
-# Guest User
+	Guest User
 
  NAT rules require firewall rules to allow traffic.
- #true
+ 	
+	true
 
  Which of the following statements about zero-touch deployment are TRUE?
- #Zero-touch configuration rules are only available for the latest XG hardware devices - wrong
+ 
+ 	Zero-touch configuration rules are only available for the latest XG hardware devices - wrong
 
  XG Firewall hosts the SSL VPN on which port by default?
- #8443
+ 	
+	8443
 
-  DHCP can be used to override the magic IP if the XG Firewall is not the default gateway.
-  #true
-
+DHCP can be used to override the magic IP if the XG Firewall is not the default gateway.
+  	
+	true
 
   TRUE or FALSE: The option to create loopback and reflexive NAT rules is only available when adding a NEW NAT rule, not when editing an existing NAT rule.
-  #true
+  	
+	true
 
   TRUE or FALSE: You must have an additional Sophos Central license to use Central Firewall Management.
-  #falsen
+  
+  	false
 
   TRUE or FALSE: The Sophos Chromebook User ID app is deployed to Chromebooks from the XG Firewall.
-  #false
+  		
+	false
 
   What type of encryption does XG Firewall make use of for one way message encryption?
-  #spx
+  	
+	spx
 
   TRUE or FALSE: The firewall rule ID is the same as the rule position.
-  #false
+  	
+	false
 
   You have created a report that displays data that you wish to check on a daily basis. How can you make this data easily available in the WebAdmin interface?
-  # Create a bookmark for the report
+  	
+	Create a bookmark for the report
 
 When creating a NAT rule which option allows you to select different source NATs based on the outbound interface within a single rule?
 
-# Override source translation (SNAT)
+	Override source translation (SNAT)
 
 Which feature can harden forms, sign cookies and scan for malware?
-# IPS
+
+	IPS
 
 What is the maximum number of external syslog servers you can configure on XG Firewall?
-#5
+	
+	5
 
 Which of the following is an attack using a spoof email to persuade users to provide sensitive information or credentials?
-#phising
+	
+	phising
 
 Which interface type is a virtual LAN interface created on an existing XG interface?
-# vlan
+	
+	vlan
 
 Which web filtering method can offload traffic to the FastPath?
-#DPI
+	
+	DPI
 
 Which 3 of the following features are provided by application control?
 
-# Protection against risky applications
-# Guarantee bandwidth for business applications
-# Block or limit unproductive applications
+	Protection against risky applications
+	Guarantee bandwidth for business applications
+	Block or limit unproductive applications
 
 Which 2 of the following are methods of XG Firewall authentication?
-Email
-SMS
-# Captive Portal
-Fingerprint scanner
-# Authentication Agent
+
+	Captive Portal
+	Authentication Agent
 
 What is required when creating an IPsec VPN policy?
-#Both sides of the VPN must allow the same settings
-
-
+	
+	Both sides of the VPN must allow the same settings
+  
 Which 2 methods can be used to generate one-time passwords for authenticating with the XG Firewall?
-#Password Pad
-#Software Token
+	
+	Password Pad
+	Software Token
 
 Which 2 features are required if you want to make use of lateral movement protection?
 
-# Server or endpoint protection
-# Intercept X
+	Server or endpoint protection
+	Intercept X
 
 Looking at the firewall rules shown above, why is this happening?
-# The source and destination on the rule are reversed
+	
+	The source and destination on the rule are reversed
 
 Which is the control port used in RED connections?
-#3400
+	
+	3400
 
 TRUE or FALSE: Web protection exceptions apply to all web protection policies no matter when they are applied in the XG Firewall.
-#true
+	
+	true
 
 You want to configure Security Heartbeat, what is the first thing you need to do?
-#Register your XG Firewall with your Sophos Central account
+
+	Register your XG Firewall with your Sophos Central account
 
 What is the Clientless Access Portal used for?
-#To provide access to internal resources without the need for a VPN client to be installed
+
+	To provide access to internal resources without the need for a VPN client to be installed
 
 
 Which 2 of the following statements correctly describe how firewall rules are applied?
-	
-All firewall rules are applied to all packets
-Packets which match a DNAT rule are ignored by the firewall
-# Packets that don't match a firewall rule are dropped and logged
-# Packets are tested against firewall rules in order and the first match is used
-Packets are tested against all firewall rules and the best match is used
+
+	Packets that don't match a firewall rule are dropped and logged
+	Packets are tested against firewall rules in order and the first match is used
 
 
 
