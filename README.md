@@ -122,355 +122,312 @@ Where would you view information on files being processed by Sandstorm for Web P
 
 Your network has no existing VLANs and everything is connected using basic layer 2 switches. You are configuring a secure wireless guest network that needs to have its traffic isolated. What security mode would allow this to be done without any additional changes to the network configuration?
 
-# Bridge to AP LAN - wrong
-# Separate Zone
-# Bridge to VLAN - wrong
+	Separate Zone
 
 Which 2 operating systems is the Sophos Connect IPsec client available for?
 
-Linux
-Chrome OS
-# Mac
-# Windows
+	Linux
+	Chrome OS
+
 
 After enabling ATP on the XG Firewall, you test the ATP policy and cannot get the block page to appear. You examine the configuration to see what is misconfigured.
 	
-Enable Advanced Threat Protection
-Threat Exceptions
-Logging
-Network / Host Exceptions
-# Policy
+	Policy
 
 The XG Firewall can be deployed as a virtual appliance. Which 5 virtualization platforms is the XG Firewall 17.5 supported on?
-# KVM
-# VMware
-Amazon Cloud
-# Azure Cloud
-# Citrix Xen
-Virtual PC
-# Hyper-V
+
+	KVM
+	VMware
+	Azure Cloud
+	Citrix Xen
+	Hyper-V
 
 Where would you view information on files being processed by Sandstorm for Web Protection?
-#PROTECT > Advanced threat > Sandstorm activity
+
+	PROTECT > Advanced threat > Sandstorm activity
 
 An administrator at a remote site is unable to upload an SSL site-to-site VPN client configuration file on their XG Firewall. What is preventing them from uploading the file?
 
-# The Administrator needs to configure a HTTP proxy server - wrong
-# The VPN configuration is encrypted
-# The Administrator needs to override the peer name - 1st wrong
-# The Administrator has entered the wrong connection name – wron
+	The VPN configuration is encrypted
+
 
 When testing a new web policy, you are still able to access pages that should be blocked. What is the most likely reason for this?
-# The Default Action was not modified in the rule to block all traffic
+	
+	The Default Action was not modified in the rule to block all traffic
 
-Question 13: Which zone cannot have a physical port or interface assigned?
-  # VPN
+Which zone cannot have a physical port or interface assigned?
+  
+  	VPN
 
 You are configuring Security Heartbeat in a firewall rule that allows computers connected on the LAN
  to access intranet servers. You want to ensure that only computers that have a GREEN 
  Security Heartbeat have access.
-# c
+
+	c
 
 When using STAS, where in the network can the agent software installed and configured?
-# On a Microsoft Active Directory server in the network
+	
+	On a Microsoft Active Directory server in the network
 
 How do you enable and disable IPsec VPNs?
-# By clicking on the status indicators
+	
+	By clicking on the status indicators
 
 When you click links to firewall rules and policies in the log viewer, where does it open?
-# In the WebAdmin window
+	
+	In the WebAdmin window
 
 You have received a new hardware XG Firewall and are preparing to connect to it for the first time. 
 What is the default IP address  and port that is used to access the device?
-# HTTPS://172.16.16.16:4444
+
+	HTTPS://172.16.16.16:4444
 
 You would like to restrict users from logging into Google services that are 
 not tied to company approved domains. Where in a web policy can you find the option to enforce
 that only certain domains are available for Google Apps?
-# Advanced settings
+	
+	Advanced settings
 
 TRUE or FALSE: Hotspots can only be created for wireless networks using the separate zone 
 access method.
-#FALSE
+	
+	FALSE
 
 Select the correct definition of an exploit kit.
-# Software downloaded to a computer that exploits vulnerabilities to download malicious code 
-An application installed onto user's computer by hackers to provide persistent remote access
+
+	Software downloaded to a computer that exploits vulnerabilities to download malicious code 
 
 TRUE or FALSE: IPS policies can be applied to both User/Network rules and Business Application rules.
-#true
+	
+	true
 
 You are configuring a new XG Firewall and have already forgotten your admin password.
  You have not created any other administrator users yet. How can the admin password be reset to the default?
-# Reboot and use SFLoader and select Troubleshooting
+	
+	Reboot and use SFLoader and select Troubleshooting
 
 When creating a site-to-site VPN between an XG Firewall and another vendor’s firewall, 
 what is the best protocol to use?
-# IPsec
+	
+	IPsec
 
 What security mode must be used to support Fast BSS?	
-# WPA2
+	
+	WPA2
 
 You have been asked to create a surfing quota for guests that allows access to the Internet 
 for 20 hours in a week and then terminates the connection with no recurrence.
-# c
+	
+	c
 
 Which firewall icon shown would represent a user rule that will reject or drop traffic?
-#G
+	
+	G
 
 Where can an end user download the SSL VPN client from to install on their workstation?
-Sophos Central
-#User Portal
-sophos.com
-WebAdmin
+	
+	User Portal
 
 Where can an end user download the SSL VPN client from to install on their workstation?
-#user portal
+	
+	user portal
 
 Which zone is typically used for Internet services? 
-LAN
-# WAN
-DMZ
-VPN
+	
+	WAN
 
 When creating a site-to-site VPN between an XG Firewall and another vendor’s firewall, what is the best protocol to use?
-#IPsec
-SSL
-L2TP
-PPTP
+	
+	IPsec
+
 
 You have been asked to create a surfing quota for guests that allows access to the Internet for 20 hours in a week and then terminates the connection with no recurrence.
-#c
+	
+	c
 
-Question 10: correct:
 What security mode must be used to support Fast BSS?	
-WEP
-# WPA2
-WPA
+	
+	WPA2
 
 
 You have created an SSL VPN Remote Access policy for your Active Directory users, but you are unable to authenticate successfully to establish a VPN connection. What do you need to do to resolve the issue?
 
-Select the Active Directory server as an authentication source in SSL VPN Authentication Methods
-You cannot authentication Active Directory users with the SSL VPN
-# Select the Active Directory server in the SSL VPN Remote Access policy - wrong
-Select the Active Directory server's certificate in the SSL VPN Settings - wrong***
+	You cannot authentication Active Directory users with the SSL VPN
+
 
 Which 4 of the following are supported external authentication servers on Sophos XG Firewall 17.5?
 
-# Active Directory 1 - Wrong
-eDirectory
-SQL
-# RADIUS 1 - Wrong
-# LDAP 1 - Wrong
-# OKTA 1 - Wrong
+	Active Directory
+	RADIUS
+	LDAP
+	OKTA
 
 
 A client is asking about the features that can be used on an XG firewall without a separate license. Which 3 of the following features are included in the Sophos XG Firewall base license?
 Sandstorm
-# Firewalls
-# Site-to-site VPN
- IPsec VPN client
-# Wireless
-HTML5 clientless VPN
+	Firewalls
+ 	Site-to-site VPN
+ 	Wireless
 
 Where would you view information on files being processed by Sandstorm for Web Protection?
-#PROTECT > Advanced threat > Sandstorm activity
+	
+	PROTECT > Advanced threat > Sandstorm activity
 
 What does enabling and configuring Authenticated Relay in Email Protection allow users to do?
 
-# Send emails to their mail servers - wrong
-# Relay emails to external senders through the XG Firewall
-Receive emails from external senders
-Relay emails to other users in the local network
+	Relay emails to external senders through the XG Firewall
 
 When you click links to firewall rules and policies in the log viewer, where does it open?
-In a new tab
-In the current tab
-# In the WebAdmin window
+
+	In the WebAdmin window
 
 You configure a printer on the wireless guest network but when you go to test the device, you cannot find it. What wireless setting may be the cause of this?
-Hidden SSID
-MAC Filtering
-Fast BSS
-# Client Isolation
-Time based access
+
+	Client Isolation
 
 Which 3 of the following are displayed by the Cloud Applications dashboard widget?
-A list of detected cloud application names
-Summary of cloud applications by classification
-# Names of users detected using cloud applications
-# Bandwidth usage by cloud applications detected
-# Total number of cloud applications detected
+	
+	Names of users detected using cloud applications
+	Bandwidth usage by cloud applications detected
+	Total number of cloud applications detected
 
-
-
-Which 3 of the following are displayed by the Cloud Applications dashboard widget?
-# Bandwidth usage by cloud applications detected
-Names of users detected using cloud applications
-# Summary of cloud applications by classification
-A list of detected cloud application names
-# Total number of cloud applications detected
 
 You have a RED device deployed at a remote network in a standard/split configuration. When you connect a Sophos access point to the remote network it never appears in the pending access point list on the XG Firewall. 
 What configuration change needs to be made for the RED connection?
 	
-# Add 1.2.3.4 to the remote network list
-Add the IP address of the access point to the split networks
-#Add the IP address of the XG Firewall to the split networks - wrong
-Configure a split DNS server address
+	Add 1.2.3.4 to the remote network list
 
 The company is preparing to deploy several RED devices at locations that deal with sensitive corporate data. Management would like to ensure that traffic from those locations can be monitored and blocked from leaving the corporate LAN. What would be the most appropriate security mode to deploy the RED devices in?
 	
-# Standard/Unified
-Transparent/Split
- Standard/Split - wrong
+	Standard/Unified
+
 
 What type of firewall rule do you need to create to give users outside the network access to Outlook Web Access?
-# Business application rule
-User/network rule
-Policy route rule
+	
+	Business application rule
 
 Which 2 of the following statements correctly describe how firewall rules are applied?	
-Packets are tested against all firewall rules and the best match is used
-# Packets that don't match a firewall rule are blocked
-All firewall rules are applied to all packets
-Packets which match a DNAT rule are ignored by the firewall
-# Packets are tested against firewall rules in order and the first match is used
+	
+	Packets that don't match a firewall rule are blocked
+	Packets are tested against firewall rules in order and the first match is used
 
 There are several important reports that need to be examined on a regular schedule from the XG Firewall. You want to make these easily available when working with the WebAdmin interface. How can this be accomplished?
 	
-# Pin them to the menu 
-Create a bookmark for the reports
-Add shortcuts to the Control Center - wrong
-Add the reports to the index in the XG Firewall  - wrong
+	Pin them to the menu 
+
 
 You have created an SSL VPN Remote Access policy for your Active Directory users, but you are unable to authenticate successfully to establish a VPN connection. What do you need to do to resolve the issue?
-	
-You cannot authentication Active Directory users with the SSL VPN - wrong
-Select the Active Directory server as an authentication source in SSL VPN Authentication Methods - wrong
-Select the Active Directory server in the SSL VPN Remote Access policy - wrong 
-# Select the Active Directory server's certificate in the SSL VPN Settings
+
+	Select the Active Directory server's certificate in the SSL VPN Settings
 
 TRUE or FALSE: Hotspots can only be created for wireless networks using the separate zone access method.
 
-	
-TRUE
-# FALSE
+	FALSE
 
 Which XG FIREWALL subscription is required to connect the XG firewall to Sophos Central?
 
-# Network Protection
-Web Protection
-Email Protection
-Web Server Protection
-# Base license - wrong
+	Network Protection
+
 
 You get a call from another administrator who was looking at the XG Firewall reports and noticed the application risk meter was at 4.2. They were not sure if this was a cause for concern, so they decided to bring it to your attention. Which of the following should be the basis of your response?
 	
-# There are users performing risky actions on the network
-Users are doing very few risky activities on the network - wrong
-There are some users showing risky behavior, but it is currently at a low level
+	There are users performing risky actions on the network
 
 
 TRUE or FALSE:  When replying to an SPX encrypted email, a recipient would also need to have an XG Firewall with SPX configured for their reply to be encrypted.
 
-TRUE
-# FALSE
+	FALSE
 
 TRUE or FALSE: The Sophos Chromebook User ID app is deployed to Chromebooks from the XG Firewall.
 
-TRUE
-# FALSE
+	FALSE
 
 Which feature of the XG Firewall helps prevent a computer infected by a trojan from transmitting personal information out of their network?
-Security Heartbeat
-# Advanced Threat Protection (ATP)
-Intrusion Prevention System (IPS) - wrong
+	
+	Advanced Threat Protection (ATP)
+
 
 The XG Firewall is configured to use your ISP for DNS. What needs to be configured on the XG Firewall so that it can also resolve internal hostnames?
 
-Dynamic DNS
-Port Forwarding for DNS
-Firewall Rule for DNS
-# DNS Request Route
-DNS Forwarder
+	DNS Request Route
 
 You are in the process of deploying multiple RED devices. Due to bandwidth issues at the head office, which 2 modes of deployment could be used to so that only necessary traffic is routed back to the head office?
-# Transparent/Split
-# Standard/Split
-Standard/Unified
+	
+	Transparent/Split
+	Standard/Split
 
 Your XG Firewall has been replaced with a new XG Firewall and the previous device is no longer available. There were several RED devices attached to the previous unit that you would like to re-provision on the new firewall. These REDs were provisioned using the provisioning service. Where would you be able to find the unlock codes to re-provision the REDs to the new XG Firewall?
 	
-On a sticker on the bottom of the RED
-# In an email from Sophos the first time the RED's were provisioned
-wrong : # In the customer's My Sophos portal registered with their RED details
-wrong: # By logging into the partner portal and looking up your registered devices
+	In an email from Sophos the first time the RED's were provisioned
 
 
 Which of the following best describes the Bridge to AP LAN security mode for wireless networks?
 
 Wireless traffic is routed to the XG Firewall, a DNAT rule must be created to route it to the LAN
 Wireless traffic is routed through the XG Firewall to the LAN
-# A bridge interface is created between the wireless network and LAN - wrong
-# Wireless traffic is routed from the AP directly onto the LAN
-# The AP is configured on its own LAN segment and traffic is managed separately - wrong
-
+	
+	Wireless traffic is routed from the AP directly onto the LAN
 
 TRUE or FALSE: IPS policies can be applied to both firewall and web server protection rules
-#true
+	
+	true
 
 Which is the most common deployment scenario for XG Firewall?
 	
-Bridge Mode
-# Gateway Mode
-Web Application Firewall (WAF)
-Discover Mode
+	Gateway Mode
 
 
 TRUE or FALSE: Keyword libraries can be uploaded to XG Firewall and applied to any web filtering policy as an added criteria with actions to log and monitor, or block search results or websites containing the keywords of interest.
-#true
+	
+	true
 
-Which of the following DoS and spoof protection modes will drop packets if the IP and MAC do not match with any entry in the IP-MAC trusted list?
-#mac filter - wrong
 
 TRUE or FALSE: Application rules are applied to users and groups.
-#false
+	
+	false
 
 
 What type of user can be created to allow temporary access to resources with the least amount of effort?
 
-# Guest User
+	Guest User
 
  NAT rules require firewall rules to allow traffic.
- #true
+ 
+ 	true
 
  Which of the following statements about zero-touch deployment are TRUE?
- #Zero-touch configuration rules are only available for the latest XG hardware devices - wrong
+ 	
+	Zero-touch configuration rules are only available for the latest XG hardware devices - wrong
 
  XG Firewall hosts the SSL VPN on which port by default?
- #8443
+ 	
+	8443
 
 
   DHCP can be used to override the magic IP if the XG Firewall is not the default gateway.
-  #true
+  	
+	true
 
 
   TRUE or FALSE: The option to create loopback and reflexive NAT rules is only available when adding a NEW NAT rule, not when editing an existing NAT rule.
-  #true
+  	
+	true
 
   TRUE or FALSE: You must have an additional Sophos Central license to use Central Firewall Management.
-  #falsen
+  	
+	false
 
   TRUE or FALSE: The Sophos Chromebook User ID app is deployed to Chromebooks from the XG Firewall.
-  #false
+  	
+	false
 
   What type of encryption does XG Firewall make use of for one way message encryption?
-  #spx
+  	
+	spx
 
 TRUE or FALSE: The firewall rule ID is the same as the rule position.
-  	false
+  	
+	false
 
 You have created a report that displays data that you wish to check on a daily basis. How can you make this data easily available in the WebAdmin interface?
  	
