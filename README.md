@@ -1,3 +1,42 @@
+You have enabled a Sophos Sandstorm trial and want to use it to add an extra layer of security to your email traffic.
+Where do you now need to enable Sophos Sandstorm for Email Protection?
+
+	In Email > General Settings
+
+
+You need to DNAT HTTPS and SSH from a WAN IP address on the XG Firewall to a server in the DMZ zone. SSH is running on a non-standard port on the server in the DMZ, so you need to change the port from 22 to 2222 as part of the DNAT.
+#2
+Which directory service is supported by the Sophos Transparent Authentication Suite when used with a Sophos XG Firewall?
+
+	microsoft active irectory
+
+You create a new Sophos Central account and connect your XG Firewall to the account in order to enable Security Heartbeat.
+
+	Firewall rules with heartbeat status need to be created
+	Central server or endpoint protection software needs to be installed on computers
+
+When creating a new network zone on the XG Firewall, which 2 zone types can be selected?
+	
+	dmz -lan
+
+A user's computer is infected with a Trojan which is attempting to send personal information obtained from the user’s computer to an external party.
+	
+	Advanced Threat Protection (ATP)
+
+You are concerned about incoming attacks from the outside. 
+	
+	ips
+
+A targeted attack using spoof emails to persuade users to provide sensitive information or credentials.
+
+	spear phishing
+
+What 2 methods are available for users to manage their quarantined items?
+	
+	user portal
+	quarinite report
+
+
 
 Which 2 operating systems is the Sophos Connect IPsec client available for?
 	
