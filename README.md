@@ -1,3 +1,7 @@
+When employing the Sophos Transparent Authentication Suite, where in the network is the agent software installed and configured?
+ 	
+	On a Microsoft Active Directory server in the network
+
 You have enabled a Sophos Sandstorm trial and want to use it to add an extra layer of security to your email traffic.
 Where do you now need to enable Sophos Sandstorm for Email Protection?
 
