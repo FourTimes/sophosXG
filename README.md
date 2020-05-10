@@ -647,6 +647,19 @@ Which 2 of the following statements correctly describe how firewall rules are ap
 	Packets that don't match a firewall rule are dropped and logged
 	Packets are tested against firewall rules in order and the first match is used
 
+Which of the following best describes the Bridge to AP LAN security mode for wireless networks?
 
+	Wireless traffic goes from the AP directly onto the LAN
+
+You are concerned about incoming attacks from the outside. 
+#ipc
+
+Users complain that when working long hours, they often lose access to Internet resources that they need to do their work.
+
+	Schedule applied
+
+You need to DNAT for HTTPS and SSH from a WAN IP address on the XG Firewall to a server in the DMZ zone. SSH is running on a non-standard port on the server in the DMZ, so you will configure the DNAT rule to listen on 2222 to match the port on the server in the DMZ.
+	
+	1
 
 
